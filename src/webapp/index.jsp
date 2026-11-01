@@ -27,7 +27,7 @@
     </tbody>
     </table>
     <a href="MiServlet">Ejecutar Servlet</a>
-º</div>
+</div>
 <div class="container">
     <h1>Formularios</h1>
     <form action="MiServlet" method="get">
@@ -52,10 +52,13 @@
     </form>
     <p>
         <br/>
+
         <a href="Alumnos.jsp" class="btn btn-secondary">Alumnos</a>
         <a href="Profesores.jsp" class="btn btn-secondary">Profesores</a>
         <a href="Materias.jsp" class="btn btn-secondary">Materias</a>
         <a href="ProfesorMaterias.jsp" class="btn btn-secondary">Profesor Materias</a>
+        <a href="AlumnoMaterias.jsp" class="btn btn-secondary">Alumno Materias</a>
+
     </p>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
